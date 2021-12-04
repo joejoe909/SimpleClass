@@ -7,8 +7,7 @@
 
 The Class
 
-'''cpp
-
+```cpp
 class idea {
 public:
 
@@ -38,15 +37,12 @@ private:                            //We can keep these variable private, this p
     string thought;
 
 };
-
-
-'''
+```
 
 In the main function we use the idea class.
 the main() function:
 
-'''cpp
-
+```cpp
 int main()
 {
     string ttl = "ttl title";
@@ -81,5 +77,4 @@ int main()
 
     return 0;
 }
-
-'''
+```
