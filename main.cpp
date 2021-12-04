@@ -4,8 +4,10 @@
 
 using namespace std;
 
+//send to kriti - Get Your C++ Wheels turning. section.
 //A quick example to help me keep my c++ wheels turning.
 //this is a good refrence for vectors, strings, classes, constructors.
+
 class idea {
 public:
 
