@@ -5,8 +5,10 @@
 
 #### The main component of interest is all in the main.cpp file.
 
-The Class class idea
-'''
+The Class
+
+'''cpp
+
 class idea {
 public:
 
@@ -37,11 +39,14 @@ private:                            //We can keep these variable private, this p
 
 };
 
+
 '''
+
 In the main function we use the idea class.
 the main() function:
 
-'''
+'''cpp
+
 int main()
 {
     string ttl = "ttl title";
@@ -76,4 +81,5 @@ int main()
 
     return 0;
 }
+
 '''
